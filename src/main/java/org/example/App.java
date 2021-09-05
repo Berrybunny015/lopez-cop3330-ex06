@@ -3,7 +3,7 @@ package org.example;
 import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
-        //variable declaraction
+        //variable declaration
         int currentYear = 2021;
 
         System.out.println("\nWhat is your current age? "); //output #1
